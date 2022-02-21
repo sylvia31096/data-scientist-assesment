@@ -1,4 +1,6 @@
-notebooks/data_analysis.ipynb
-data/formatted_data.csv
-data/Kenya Deliveries Cleaner.csv
-data/merged_data.csv
+data/classes.csv
+data/pca_data.csv
+data/purchasing_corr.csv
+data/purchasing_customers.csv
+data/time_revenue.csv
+data/zones_revenue.csv
