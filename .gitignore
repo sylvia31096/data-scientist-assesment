@@ -5,3 +5,10 @@ data/purchasing_customers.csv
 data/time_revenue.csv
 data/zones_revenue.csv
 data/.~lock.Kenya Deliveries - Kenya Deliveries (1).csv#
+notebooks/.ipynb_checkpoints/data_analysis-checkpoint.ipynb
+scripts/__pycache__/customer_classification.cpython-38.pyc
+scripts/__pycache__/customer_retention.cpython-38.pyc
+scripts/__pycache__/data_cleaning.cpython-38.pyc
+scripts/__pycache__/product_recommendation.cpython-38.pyc
+scripts/__pycache__/revenue_optimization.cpython-38.pyc
+visualization/purchase_corr.png
