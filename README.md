@@ -43,8 +43,8 @@ Contains data used in analysis. This folder also includes:
 
 ## NB:
 Run in the following order:
-    1. Data merging
-    2. Data Cleaning
-    3. Data Analysis (Contains the ML models)
+ 1. Data merging
+ 2. Data Cleaning
+ 3. Data Analysis (Contains the ML models)
 
      
