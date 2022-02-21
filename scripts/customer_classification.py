@@ -112,7 +112,7 @@ def fit_model(X):
     return y
 
 def main():
-    df = get_analysis_data("data/formatted_data.csv")
+    df = get_analysis_data("../data/merged_data.csv")
     X = generate_customer_dataset(df)
     y = fit_model(X)
 

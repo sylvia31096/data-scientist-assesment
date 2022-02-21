@@ -57,7 +57,7 @@ def fit_model(X_train, X_test):
     return pred_df
 
 def main(): 
-    df = get_analysis_data("data/formatted_data.csv")
+    df = get_analysis_data("../data/merged_data.csv")
     X_train, X_test = generate_product_dataset(df)
     pred_df = fit_model(X_train, X_test)
 

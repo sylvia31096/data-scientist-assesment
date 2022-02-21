@@ -78,7 +78,7 @@ def fit_model(X,y):
         print(r2_score(y_test, y_pred))
 
 def main():
-    df = get_analysis_data("data/formatted_data.csv")
+    df = get_analysis_data("../data/merged_data.csv")
     X,y = generate_customer_dataset(df)
     fit_model(X,y)
 
