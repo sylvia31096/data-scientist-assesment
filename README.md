@@ -22,7 +22,7 @@ Contains data used in analysis. This folder also includes:
 6. [revenue_optimization.py](scripts/revenue_optimization.py): Contains module for revenue optimization analysis and prediction.
 
 ### [requirements.txt](requirements.txt)
- Required libraries Python libraries
+ Required Python libraries
 
 ### [Report.pdf](Report.pdf)
  The report explaining my solution from data merging to building machine learning models
