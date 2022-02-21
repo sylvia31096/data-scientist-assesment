@@ -7,7 +7,7 @@ Contains data used in analysis. This folder also includes:
 
 1. [Kenya Deliveries Cleaner.csv](data/Kenya&#Deliveries&#Cleaner.csv): Cleaned data without comma typos.
 2. [merged_data.csv](data/merged_data.csv): Contains dataset created after merging.
-3. [](data/formatted_data.csv): Contains data created after cleaning.
+3. [formatted_data.csv](data/formatted_data.csv): Contains data created after cleaning.
 ### [notebooks](notebooks):
 1. [data_merging.ipynb](notebooks/data_merging.ipynb): Constains notebook that merges multiple data sources.
 2. [data_cleaning.ipynb](notebooks/data_cleaning.ipynb): Contains notebook that cleans merged data.
