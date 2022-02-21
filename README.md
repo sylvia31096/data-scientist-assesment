@@ -32,7 +32,7 @@ Contains data used in analysis. This folder also includes:
 2. In a virtual environment or global environment install the required libraries, run:
    `pip install -r requirements.txt `
 3. To view my solutions
-   1. Please view from the notebooks instead of the scripts. This more preferable to get visualizations and better explanations.
+   1. Please view from the notebooks instead of the scripts. This is more preferable to get visualizations and better explanations.
       1. Run - `jupyter-notebook `
       2. Run the notebooks
    2. Incase you want to run the scripts:
