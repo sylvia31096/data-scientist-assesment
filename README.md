@@ -30,13 +30,15 @@ Contains data used in analysis. This folder also includes:
 ## Installation
 1. Clone the repository.
 2. In a virtual environment or global environment install the required libraries, run:
+
    `pip install -r requirements.txt `
 3. To view my solutions
    1. Please view from the notebooks instead of the scripts. This is more preferable to get visualizations and better explanations.
-      1. Run - `jupyter-notebook `
+      1. Run:`jupyter-notebook `
       2. Run the notebooks
    2. Incase you want to run the scripts:
       1. Run (It is important you run within this directory because of file path errors)
+ 
          `cd scripts `
       2. Run:
         `python the_script_you_want_to_run `
